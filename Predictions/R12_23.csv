@@ -1,0 +1,10 @@
+﻿Day,Month,Round,Home,Away,Venue,Predicted winner,Predicted margin,Likelihood of win
+2,6,12,MEL,CAR,MCG,MEL,29,0.789633246
+3,6,12,PTA,HAW,Football Park,PTA,43,0.876089756
+3,6,12,WCE,COL,Optus Stadium,COL,53,0.915930386
+3,6,12,GCS,ADL,Marrara Oval,GCS,11,0.619083816
+3,6,12,WBD,GEE,Marvel Stadium,GEE,2,0.519404558
+4,6,12,GWS,RCH,GIANTS Stadium,RCH,16,0.673651018
+4,6,12,ESS,NTH,Marvel Stadium,ESS,35,0.827415329
+0,1,12,#N/A,#N/A,#N/A,#N/A,0,0
+0,1,12,#VALUE!,#VALUE!,#VALUE!,#VALUE!,0,0
